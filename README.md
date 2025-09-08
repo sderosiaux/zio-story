@@ -4,11 +4,6 @@ An interactive, gamified learning platform for mastering ZIO - the powerful libr
 
 🌐 **[Visit the Live Site →](https://sderosiaux.github.io/zio-story)**
 
-![ZIO Learning Platform](https://img.shields.io/badge/ZIO-Learning%20Platform-blue)
-![Next.js](https://img.shields.io/badge/Next.js-15.4-black)
-![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
-
 ## ✨ Features
 
 - **🎮 Interactive Learning**: Hands-on exercises with drag-and-drop functionality
