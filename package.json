@@ -2,6 +2,29 @@
   "name": "zio-learning-site",
   "version": "0.1.0",
   "private": true,
+  "description": "Interactive, gamified learning platform for mastering ZIO - Scala's powerful library for async and concurrent programming",
+  "author": "Your Name",
+  "license": "MIT",
+  "homepage": "https://github.com/sderosiaux/zio-story#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sderosiaux/zio-story.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sderosiaux/zio-story/issues"
+  },
+  "keywords": [
+    "zio",
+    "scala",
+    "learning",
+    "education",
+    "interactive",
+    "gamification",
+    "nextjs",
+    "typescript",
+    "tutorial",
+    "programming"
+  ],
   "scripts": {
     "dev": "next dev",
     "build": "next build",
