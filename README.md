@@ -1,6 +1,6 @@
 # 🎯 ZIO Learning Platform
 
-An interactive, gamified learning platform for mastering ZIO - the powerful library for asynchronous and concurrent programming in Scala. Built with Next.js and TypeScript, featuring drag-and-drop exercises, real-time code execution, and progressive learning paths.
+An interactive, gamified learning platform for mastering ZIO - the powerful library for asynchronous and concurrent programming in Scala.
 
 🌐 **[Visit the Live Site →](https://sderosiaux.github.io/zio-story)**
 
