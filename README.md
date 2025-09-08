@@ -2,6 +2,8 @@
 
 An interactive, gamified learning platform for mastering ZIO - the powerful library for asynchronous and concurrent programming in Scala. Built with Next.js and TypeScript, featuring drag-and-drop exercises, real-time code execution, and progressive learning paths.
 
+🌐 **[Visit the Live Site →](https://sderosiaux.github.io/zio-story)**
+
 ![ZIO Learning Platform](https://img.shields.io/badge/ZIO-Learning%20Platform-blue)
 ![Next.js](https://img.shields.io/badge/Next.js-15.4-black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue)
@@ -25,35 +27,6 @@ An interactive, gamified learning platform for mastering ZIO - the powerful libr
 4. **Resource Management** - Safe resource acquisition and release
 5. **Testing** - Write effective tests with ZIO Test
 6. **Advanced Patterns** - Streams, STM, and more
-
-## 🌐 Live Demo
-
-Visit the live site: [ZIO Learning Platform](https://sderosiaux.github.io/zio-story)
-
-## 🛠️ Tech Stack
-
-- **Framework**: [Next.js 15](https://nextjs.org/) with App Router
-- **Language**: [TypeScript](https://www.typescriptlang.org/)
-- **Styling**: [Tailwind CSS](https://tailwindcss.com/)
-- **Animations**: [Framer Motion](https://www.framer.com/motion/)
-- **Code Editor**: [Monaco Editor](https://microsoft.github.io/monaco-editor/)
-- **Icons**: [Lucide React](https://lucide.dev/)
-- **Drag & Drop**: [React DnD](https://react-dnd.github.io/react-dnd/)
-
-## 📂 Project Structure
-
-```
-zio-learning-site/
-├── app/                 # Next.js app directory
-│   ├── components/      # React components
-│   ├── exercises/       # Learning exercises
-│   ├── lib/            # Utility functions
-│   └── styles/         # Global styles
-├── public/             # Static assets
-├── types/              # TypeScript type definitions
-└── data/               # Exercise and course data
-```
-
 
 ## 📝 License
 
